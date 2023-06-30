@@ -1,0 +1,38 @@
+h1{
+    background-color: #ffcc00;
+    color: #cc33ff;
+    font-family: Arial;
+    text-align: center;
+    display: block;
+    margin-bottom: -20px;
+    
+    
+    
+    }
+    h2{
+    background-color: #ffcc00;
+    color: #cc33ff;
+    font-family: Arial;
+    text-align: center;
+    display: block;
+    margin-bottom: 0
+    }
+    img{
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: auto;
+      }
+      ul > li{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        font-family: Arial;
+        border-bottom: solid #cc33ff ;
+      }
+      legend{
+        font-family: Arial;
+        margin-top: 10px;
+      }
+      body{
+        background-color: #ffcc00;
+      }
